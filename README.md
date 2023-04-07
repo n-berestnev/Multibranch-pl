@@ -4,3 +4,5 @@ Jenkins Multibranch Pipeline Example Repo
     v8
     v9
         v10-test
+        
+        v11
